@@ -1,4 +1,4 @@
-# Juego 2d en Unity (Endless Runner)
+# Juego 2d en Unity (idless king )
 ![Screenshot](Screenshots/Juego.png)
 
 
