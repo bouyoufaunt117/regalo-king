@@ -8,5 +8,6 @@ El juego fue desarrollado en `Unity v.2022`. Es recomendable tener la misma vers
 Para probar el juego puedes clonar el repositorio o descargarlo. 
 1. En la parte de arriba a la derecha hay un botón que dice `Clonar o Descargar` Dale click y descarga el zip.
 2. Descomprime el archivo.
-3. Al descomprimir el archivo se genera un nueva carpeta. tienes que descargar el unity y Puedes abrir *Unity Hub* y seleccionar esa carpeta para abrir el juego.
-4. a disfrutar
+3. dentro de la carpeta habra un archivo llamado "assets" y "library" descompromirlos tambien.
+4. Al descomprimir el archivo se genera un nueva carpeta. tienes que descargar el unity y Puedes abrir *Unity Hub* y seleccionar esa carpeta para abrir el juego.
+5. a disfrutar.
