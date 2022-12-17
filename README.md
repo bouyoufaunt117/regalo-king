@@ -1,6 +1,6 @@
 # Juego 2d en Unity (Endless Runner)
 ![Screenshot](Screenshots/Juego.png)
-Hola, este reprositorio fue creado a partir de el siguiente curso en Youtube:
+
 
 # Prueba el juego en Unity
 El juego fue desarrollado en `Unity v.2022`. Es recomendable tener la misma versión para que todo funcione 
